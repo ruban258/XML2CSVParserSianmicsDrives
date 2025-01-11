@@ -2,7 +2,7 @@
   "name": "XML2CSVParserSianmicsDrives",
   "displayName": "xmlParserDrives",
   "description": "Parse SINAMICS XML Alarm Lists to CSV ",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "GajarubanJeyakumar",
   "engines": {
     "vscode": "^1.96.0"
